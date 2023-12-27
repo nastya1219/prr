@@ -1,0 +1,61 @@
+body {
+ background-color: #FFE4B5;
+}
+p  {
+ font-style: italic
+}
+
+input {
+  background-color: #E1F5FE;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+  border-radius:6px;
+}
+
+<style>
+
+  .card-body {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #000;
+  }
+
+  .card-title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .card-text {
+    font-size: 16px;
+  }
+
+  .card {
+    border: 1px solid #000;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .card-header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-bottom: 1px solid #000;
+  }
+
+  .nav-item {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  .nav-link {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+  }
+
+  .container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #000;
+  }
+</style>
